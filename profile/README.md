@@ -11,9 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-My name is Josh Long, and, Mario, _the princess is another castle_! 
+Mario, [_the princess is another castle_](https://github.com/joshlong)! 
 
-If you've found this page, then you found where I keep all my old repositories of little note or interest, preserved for posterity. These are experiments, tests, sketches, forks whose time has come and gone, etc. My main Github organization is still over at [`joshlong`](https://github.com/joshlong). 
+If you've found this page, then you found where I keep all my _old_ repositories of little note or interest, preserved for posterity. These are experiments, tests, sketches, forks whose time has come and gone, etc. My main Github organization is still over at [`joshlong`](https://github.com/joshlong). 
 
 Everything here is Apache 2 licensed unless otherwise explicitly mentioned.
 
