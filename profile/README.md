@@ -13,7 +13,7 @@
 
 Mario, [_the princess is another castle_](https://github.com/joshlong)! 
 
-If you've found this page, then you found where I keep all my _old_ repositories of little note or interest, preserved for posterity. These are experiments, tests, sketches, forks whose time has come and gone, etc. My main Github organization is still over at [`joshlong`](https://github.com/joshlong). 
+If you've found this page, then you found where I keep all my _old_ repositories of little note or interest, preserved for posterity. These are repositories that [_don't spark joy_](https://www.amazon.com/Spark-Joy-Illustrated-Organizing-Changing/dp/1607749726). These are experiments, tests, sketches, forks whose time has come and gone, etc. My main Github organization is still over at [`joshlong`](https://github.com/joshlong). 
 
 Everything here is Apache 2 licensed unless otherwise explicitly mentioned.
 
